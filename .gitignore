@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+models/
+features.npz
+features.npz.bak
+mic_test.wav
+setup_check.log
+starter_data/clips/
+starter_data/starter_clips.zip
+starter_data/*.part

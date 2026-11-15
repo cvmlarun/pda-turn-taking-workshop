@@ -1,0 +1,13 @@
+# Python 3.11, Windows 10/11, CPU only.
+# Install torch FIRST from the CPU index (see README), then:
+#   python -m pip install -r requirements.txt
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+librosa==0.10.2.post1
+soundfile==0.12.1
+sounddevice==0.5.1
+transformers==4.46.3
+tqdm==4.67.1
+jupyter==1.1.1

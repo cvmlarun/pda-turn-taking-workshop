@@ -120,7 +120,7 @@ try:
         import urllib.request
         import zipfile
         if not common.STARTER_ZIP.exists():
-            print("Downloading starter_clips.zip (about 45 MB) ...")
+            print("Downloading starter_clips.zip (about 35 MB) ...")
             tmp = common.STARTER_ZIP.with_suffix(".part")
             urllib.request.urlretrieve(common.STARTER_URL, tmp)
             tmp.replace(common.STARTER_ZIP)

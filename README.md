@@ -90,7 +90,7 @@ It will:
 
 - check Python and every package,
 - download the whisper-tiny model (about 150 MB),
-- download the starter dataset (about 45 MB),
+- download the starter dataset (about 35 MB),
 - record 3 seconds from your microphone and play it back.
 
 Say something when it asks. Type `y` if you heard your voice.

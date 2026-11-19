@@ -31,7 +31,7 @@ def next_number(folder, prefix):
 
 def main():
     print("=== Record training clips ===")
-    print("Tip: sit in a quiet place. Keep the mic about 20 cm from your mouth.")
+    print("Tip: sit in a quiet place. Use your headset mic, close to your mouth.")
 
     name = ""
     while not name:
